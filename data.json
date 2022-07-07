@@ -1,0 +1,113 @@
+{
+   "locations":[
+      
+      {
+         "name":"Dharwizi",
+         "coords":[
+            -20.22442,
+            57.49452
+         ],
+         "city":"Harare",
+         "id":"1"
+      },
+      {
+         "name":"150 ENTERPRISE ROAD, HIGHLANDS",
+         "coords":[
+            -20.08292,
+            57.517429
+         ],
+         "city":"Harare",
+         "id":"2"
+      },
+      {
+         "name":"WAVERLY BLANKETS: 122 KELVIN ROAD SOUTH",
+         "coords":[
+            -20.01511,
+            57.58171
+         ],
+         "city":"Harare",
+         "id":"3"
+      },
+      {
+         "name":"TV SALES AND HOME, 16 KELVIN ROAD ",
+         "coords":[
+            -20.00447,
+            57.56293
+         ],
+         "city":"Harare",
+         "id":"4"
+      },
+      {
+         "name":"SHASHA TOBACCO: 376 LIMPOPO WAY",
+         "coords":[
+            -20.02255,
+            57.65055
+         ],
+         "city":"Harare",
+         "id":"6"
+      },
+      {
+         "name":"SEAPRIDES FOODS: MUKUVISI STAND 18363",
+         "coords":[
+            -20.0924,
+            57.69941
+         ],
+         "city":"Harer",
+         "id":"7"
+      },
+      {
+         "name":"324 HARROW ROAD",
+         "coords":[
+            -20.2833,
+            57.549999
+         ],
+         "city":"GLENDALE SPINNERS: 326 MUTITI DRIVE ",
+         "id":"8"
+      },
+      {
+         "name":"OK MART - HILLSIDE HARARE ",
+         "coords":[
+            -20.27865,
+            57.37215
+         ],
+         "city":"Harare ",
+         "id":"9"
+      },
+      {
+         "name":"PUREOIL ZIMBABWE- ZIMGOLD72 LYTTON ROAD",
+         "coords":[
+            -20.43979,
+            57.322
+         ],
+         "city":"Harare",
+         "id":"10"
+      },
+      {
+         "name":"1 CHALES PRINCE AIRPORT ROAD",
+         "coords":[
+            -20.429712,
+            57.66075
+         ],
+         "city":"Harare",
+         "id":"11"
+      },
+      {
+         "name":"8 NEW DAVIES WAY, WATERFALLS",
+         "coords":[
+            -20.17258,
+            57.505
+         ],
+         "city":"Harare",
+         "id":"12"
+      },
+      {
+         "name":"BILJEN SERVICESCORNER KAMBUZUMA ROAD AND HIGHGLEN ROAD",
+         "coords":[
+            -20.21743,
+            57.49222
+         ],
+         "city":"Moka",
+         "id":"13"
+      }
+   ]
+}
